@@ -1,4 +1,4 @@
-%% nonratiometric receptor with G-protein simulation
+%% classical receptor with G-protein simulation
 
 clear all
 close all
